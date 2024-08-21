@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: quadrimuzammil/abhishek-ultimatargocd:replaceImageTag
+        image: quadrimuzammil/abhishek-ultimatargocd:26
         ports:
         - containerPort: 8080
